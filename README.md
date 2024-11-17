@@ -2,6 +2,9 @@
 
 ---
 
+
+# Video : 
+- https://www.youtube.com/watch?v=4ZeF6a9uf8c
 **Goals**:
 
 In this assignment, you'll explore the effect of shifting clusters in a dataset on the parameters of a logistic regression model. You will implement parts of the code to:
